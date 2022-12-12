@@ -1,7 +1,6 @@
 # README #
 ##Table of Contents##
-example_file.txt
-Learning Git
+Things to do when using Git
 1. Initialize repository with git init
 2. Create changees to project files
 3. Check status of those files with git status
