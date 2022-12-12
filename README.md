@@ -1,4 +1,6 @@
 # README #
+##Table of Contents##
+example_file.txt
 Learning Git
 1. Initialize repository with git init
 2. Create changees to project files
