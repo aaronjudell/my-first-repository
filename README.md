@@ -7,3 +7,4 @@ Things to do when using Git
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review changes
+7. Just changing this file for a test.
